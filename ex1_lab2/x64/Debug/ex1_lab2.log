@@ -1,4 +1,0 @@
-﻿  functii.cpp
-C:\Users\Gabriela\Desktop\CR2.3A\OOP\lab_OOP\lab2\ex1_lab2\functii.cpp(12,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Gabriela\Desktop\CR2.3A\OOP\lab_OOP\lab2\ex1_lab2\functii.cpp(13,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  ex1_lab2.vcxproj -> C:\Users\Gabriela\Desktop\CR2.3A\OOP\lab_OOP\lab2\ex1_lab2\x64\Debug\ex1_lab2.exe
